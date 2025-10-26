@@ -164,11 +164,11 @@ Open a Pull Request
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## 👨‍💻 Author
-Aditya Narayan Sahu
+Samarth sakri
 
-- GitHub: [@Aditya-NSahu](https://github.com/Aditya-NSahu)
-- LinkedIn: [Aditya Narayan Sahu](\https://www.linkedin.com/in/aditya-narayan-sahu-766bb5318/)
-- Email: your.email@example.com
+- GitHub: https://github.com/samarth-sakri/Numpy.git
+- LinkedIn: https://www.linkedin.com/in/samarth-sakri-214bb5277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Email: samarthsakri876@gmail.com
 
 🙏 Acknowledgments
 
